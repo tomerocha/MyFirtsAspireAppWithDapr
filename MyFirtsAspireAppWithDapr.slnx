@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MyFirtsAspireAppWithDapr.ApiService/MyFirtsAspireAppWithDapr.ApiService.csproj" />
+  <Project Path="MyFirtsAspireAppWithDapr.AppHost/MyFirtsAspireAppWithDapr.AppHost.csproj" />
+  <Project Path="MyFirtsAspireAppWithDapr.ServiceDefaults/MyFirtsAspireAppWithDapr.ServiceDefaults.csproj" />
+  <Project Path="MyFirtsAspireAppWithDapr.Tests/MyFirtsAspireAppWithDapr.Tests.csproj" />
+  <Project Path="MyFirtsAspireAppWithDapr.Web/MyFirtsAspireAppWithDapr.Web.csproj" />
+</Solution>
